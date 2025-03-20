@@ -56,6 +56,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="setup\BlockState.cs" />
     <Compile Include="setup\Building.cs" />
+    <Compile Include="world\Build-Modus.cs" />
     <Compile Include="world\Chunk.cs" />
     <Compile Include="world\WorldMap.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
